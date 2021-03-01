@@ -1,2 +1,3 @@
 # homework6
-Курс "DevOps Engineer" от LevelUp
+Домашнее задание 6 <br>
+<strong>history.txt</strong> содержит историю комманд
